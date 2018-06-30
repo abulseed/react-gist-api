@@ -1,0 +1,44 @@
+.GistCard {
+  width: 60%;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-flex-direction: column;
+  flex-direction: column;
+  -webkit-justify-content: space-between;
+  justify-content: space-between;
+  -webkit-align-items: center;
+  align-items: center;
+  border-bottom: 1px solid white;
+  border-radius: 10px;
+  margin-top: 16px;
+  padding: 20px;
+}
+
+.Title {
+  background-color: lightblue;
+  color: black;
+}
+
+.HeaderSection {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 100%;
+  margin-bottom: 10px;
+}
+
+.BadgesSection {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-self: flex-end;
+}
+
+.ForksSection {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  width: 100%;
+}

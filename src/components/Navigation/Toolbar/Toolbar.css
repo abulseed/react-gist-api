@@ -1,0 +1,13 @@
+.Toolbar {
+  background-color: #2f3242;
+  position: fixed;
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-content: center;
+  height: 80px;
+  top: 0;
+  left: 0;
+  color: whitesmoke;
+}
