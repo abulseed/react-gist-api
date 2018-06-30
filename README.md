@@ -26,7 +26,7 @@ Aspects taken into consideration while building this application.
 
 5- Stateful components have a loading element included for when the state is being loaded from the API.
 
-6- Components that communicate with the API has an error handling logic to show an error message in case an error happens.
+6- Components that communicate with the API has an error handling functionality injected to it to show an error message modal.
 
 ## Tech Stack
 
