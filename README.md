@@ -38,6 +38,6 @@ Aspects taken into consideration while building this application.
 
 4- Bootstrap.
 
-5- NPM.
+5- Node/NPM.
 
 6- Firebase.
