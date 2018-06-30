@@ -22,9 +22,9 @@ Aspects taken into consideration while building this application.
 
 3- The data are paginated 10 items per page.
 
-4- Navigation components are included to paginate the data with ease.
+4- Pagination components are included to paginate the data with ease.
 
-5- Stateful components have a loading element included for when the state is being loaded from the API.
+5- Stateful components are extended with a loading component for when the state is being loaded from the API.
 
 6- Components that communicate with the API has an error handling functionality injected to it to show an error message modal.
 
